@@ -1,0 +1,33 @@
+{
+  "//1Copyrights": "All Copyrights Go's To NIR0 & NIR0-V",
+  "//2Copyrights": "All Copyrights Go's To NIR0 & NIR0-V",
+  "//3Copyrights": "All Copyrights Go's To NIR0 & NIR0-V",
+  "name": "niro-games",
+  "version": "2.0.0",
+  "description": "All Copyrights Go's To NIR0 & NIR0-V",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/NIR0-V/super-welcome-bot-by-niro/issues"
+  },
+  "homepage": "ttps://github.com/NIR0-V/super-welcome-bot-by-niro#readme",
+  "keywords": [
+    "NIRO",
+    "@ニロ#3892",
+    "NIR0-V",
+    "NIR0"
+  ],
+  "repository": {
+    "url": "https://github.com/NIR0-V/super-welcome-bot-by-niro.git",
+    "get": "get+https://github.com/NIR0-V/super-welcome-bot-by-niro.git"
+  },
+  "author": "@ニロ#3892",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
